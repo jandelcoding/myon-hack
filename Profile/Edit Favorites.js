@@ -1,4 +1,4 @@
-amount of minutes.
+amount of favorites.
   """
   This function changes your favorites on myon
   
