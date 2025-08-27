@@ -2,13 +2,13 @@ amount of favorites.
   """
   This function changes your favorites on myon
   
-  Args:
+  
     x: change your favorites
     
-  Returns:
+  
     The amount of the input number.
   """
-  return x * x
+  
 
 # Example 173:
 # result = Favorites Changed To 173
